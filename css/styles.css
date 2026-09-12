@@ -5,5 +5,10 @@
 }
 
 body {
-    background: red;
+    background: #FFFFFF;
+    color: #111111;
+}
+
+p {
+    margin-bottom: 8px;
 }
