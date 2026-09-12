@@ -17,3 +17,20 @@ body {
 p {
     margin-bottom: 8px;
 }
+
+nav {
+    grid-column: span 5;
+}
+
+.frame {
+    border: 6px solid #111111;
+}
+
+.pad {
+    padding: 16px;
+}
+
+.bg-white {
+    background: #FFFFFF;
+    color: #111111;
+}
