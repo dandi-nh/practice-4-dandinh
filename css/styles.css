@@ -54,3 +54,12 @@ h1 {
     background: #D40920;
     color: #FFFFFF;
 }
+
+aside {
+    grid-column: span 1;
+}
+
+.bg-blue {
+    background: #1356A2;
+    color: #FFFFFF;
+}
