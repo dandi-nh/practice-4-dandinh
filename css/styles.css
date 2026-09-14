@@ -34,3 +34,18 @@ nav {
     background: #FFFFFF;
     color: #111111;
 }
+
+header {
+    grid-column: span 5;
+    display: grid;
+    grid-template: auto / 2fr 3fr;
+}
+
+img {
+    width: 100%;
+    height: auto;
+}
+
+h1 {
+    font-size: 36px;
+}
