@@ -72,6 +72,10 @@ h2 {
     font-size: 24px;
 }
 
+footer {
+    grid-column: span 5;
+}
+
 .bg-yellow {
     background: #F7D842;
     color: #111111;
