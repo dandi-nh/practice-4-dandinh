@@ -63,3 +63,12 @@ aside {
     background: #1356A2;
     color: #FFFFFF;
 }
+
+main {
+    grid-column: span 4;
+}
+
+h2 {
+    font-size: 24px;
+}
+
