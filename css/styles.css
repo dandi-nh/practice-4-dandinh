@@ -49,3 +49,8 @@ img {
 h1 {
     font-size: 36px;
 }
+
+.bg-red {
+    background: #D40920;
+    color: #FFFFFF;
+}
