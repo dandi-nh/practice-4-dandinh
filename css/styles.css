@@ -72,3 +72,7 @@ h2 {
     font-size: 24px;
 }
 
+.bg-yellow {
+    background: #F7D842;
+    color: #111111;
+}
