@@ -51,7 +51,7 @@ h1 {
 }
 
 .bg-red {
-    background: #D40920;
+    background: #841825;
     color: #FFFFFF;
 }
 
@@ -60,7 +60,7 @@ aside {
 }
 
 .bg-blue {
-    background: #1356A2;
+    background: darkslateblue;
     color: #FFFFFF;
 }
 
@@ -76,8 +76,8 @@ footer {
     grid-column: span 5;
 }
 
-.bg-yellow {
-    background: #F7D842;
+.bg-green {
+    background: darkolivegreen;
     color: #111111;
 }
 
