@@ -30,8 +30,8 @@ nav {
     padding: 16px;
 }
 
-.bg-white {
-    background: #FFFFFF;
+.bg-lightblue {
+    background: rgb(184, 216, 230);
     color: #111111;
 }
 
