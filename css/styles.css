@@ -80,3 +80,10 @@ footer {
     background: #F7D842;
     color: #111111;
 }
+
+section {
+    display: grid;
+    grid-template: auto / 1fr 1fr 1fr;
+    gap: 16px;
+    margin-top: 16px;
+}
